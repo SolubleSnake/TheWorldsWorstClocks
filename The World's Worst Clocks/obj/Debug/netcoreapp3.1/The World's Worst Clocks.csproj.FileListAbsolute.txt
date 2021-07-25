@@ -1,0 +1,37 @@
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\bin\Debug\netcoreapp3.1\The World's Worst Clocks.exe
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\bin\Debug\netcoreapp3.1\The World's Worst Clocks.deps.json
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\bin\Debug\netcoreapp3.1\The World's Worst Clocks.runtimeconfig.json
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\bin\Debug\netcoreapp3.1\The World's Worst Clocks.runtimeconfig.dev.json
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\bin\Debug\netcoreapp3.1\The World's Worst Clocks.dll
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\bin\Debug\netcoreapp3.1\The World's Worst Clocks.pdb
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\bin\Debug\netcoreapp3.1\The World's Worst Clocks.Views.dll
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\bin\Debug\netcoreapp3.1\The World's Worst Clocks.Views.pdb
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.AssemblyInfo.cs
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\staticwebassets\The World's Worst Clocks.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\staticwebassets\The World's Worst Clocks.StaticWebAssets.xml
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\scopedcss\bundle\The World's Worst Clocks.styles.css
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.TagHelpers.input.cache
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.TagHelpers.output.cache
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.RazorCoreGenerate.cache
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.Views.pdb
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.dll
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.pdb
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.genruntimeconfig.cache
+C:\Users\User\source\repos\The World's Worst Clocks\The World's Worst Clocks\obj\Debug\netcoreapp3.1\The World's Worst Clocks.csproj.CopyComplete

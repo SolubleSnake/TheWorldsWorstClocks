@@ -26,6 +26,9 @@ namespace The_World_s_Worst_Clocks.Pages
         public String RGBSeconds { get; set; } = DateTime.Now.TimeOfDay.Seconds.ToString();
         public int RGBBlue { get; set; } = 1;
 
+        public double pi = Math.PI;
+
+
         public void OnGet()
         {
             TimeColour += $"Server time is {DateTime.Now}";
@@ -42,6 +45,7 @@ namespace The_World_s_Worst_Clocks.Pages
 
             RGBBlue = RGBBlue;
 
+            pi = pi;
         }
 
 

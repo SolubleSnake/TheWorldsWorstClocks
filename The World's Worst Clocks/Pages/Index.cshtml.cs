@@ -23,10 +23,14 @@ namespace The_World_s_Worst_Clocks.Pages
         public int RGBRed { get; set; } = 1;
         public string RGBMinutes { get; set; } = DateTime.Now.TimeOfDay.Minutes.ToString();
         public int RGBGreen { get; set; } = 1;
-        public String RGBSeconds { get; set; } = DateTime.Now.TimeOfDay.Seconds.ToString();
+        public string RGBSeconds { get; set; } = DateTime.Now.TimeOfDay.Seconds.ToString();
         public int RGBBlue { get; set; } = 1;
 
-        public double pi = Math.PI;
+        private static double pi = Math.PI;
+
+        public string piString = pi.ToString();
+
+        public string timeIndexInPi;
 
 
         public void OnGet()
@@ -45,7 +49,10 @@ namespace The_World_s_Worst_Clocks.Pages
 
             RGBBlue = RGBBlue;
 
-            pi = pi;
+            timeIndexInPi = piString.ToString().IndexOf(DateTime.Now.TimeOfDay.Hours.ToString()).ToString();
+
+            piString = piString;
+
         }
 
 

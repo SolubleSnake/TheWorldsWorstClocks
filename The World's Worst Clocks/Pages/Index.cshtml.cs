@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Threading;
 
 namespace The_World_s_Worst_Clocks.Pages
 {
@@ -17,6 +18,9 @@ namespace The_World_s_Worst_Clocks.Pages
             _logger = logger;
         }
 
+
+        //var timeout = SetTimeout(() =>
+        //{
         public string TimeColour { get; set; } = "PageModel in C#";
 
         public string RGBHours { get; set; } = DateTime.Now.TimeOfDay.Hours.ToString();
@@ -31,10 +35,14 @@ namespace The_World_s_Worst_Clocks.Pages
         public string piString = pi.ToString();
 
         public string timeIndexInPi;
+        //}, 2000);
 
 
         public void OnGet()
         {
+
+
+
             TimeColour += $"Server time is {DateTime.Now}";
 
             RGBRed = Int32.Parse(RGBHours) * 10;
@@ -49,14 +57,38 @@ namespace The_World_s_Worst_Clocks.Pages
 
             RGBBlue = RGBBlue;
 
-            timeIndexInPi = piString.ToString().IndexOf(DateTime.Now.TimeOfDay.Hours.ToString()).ToString();
+            timeIndexInPi = piString.ToString().IndexOf((DateTime.Now.TimeOfDay.Seconds % 10).ToString()).ToString();
 
             piString = piString;
+
+
+            //ClearTimeout(timeout);
+
 
         }
 
 
 
+
+        public CancellationTokenSource SetTimeout(Action action, int millis)
+        {
+
+            var cts = new CancellationTokenSource();
+            var ct = cts.Token;
+            _ = Task.Run(() =>
+            {
+                Thread.Sleep(millis);
+                if (!ct.IsCancellationRequested)
+                    action();
+            }, ct);
+
+            return cts;
+        }
+
+        //public void ClearTimeout(CancellationTokenSource cts)
+        //{
+        //    cts.Cancel();
+        //}
 
 
     }
